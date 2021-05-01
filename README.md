@@ -9,7 +9,6 @@ I am a software developer, currently doing web development and learning everythi
 ### Contact with me:
 
 [<img align="left" alt="AndresNoboa" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png"/>][linkedin]
-[<img align="left" alt="AndresNoboa" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png"/>][instagram]
 [<img align="left" alt="AndresNoboa" width="22px" src="https://pics.freeicons.io/uploads/icons/png/7723321031557740373-512.png"/>][twitter]
 
 <br/>
@@ -33,5 +32,4 @@ I am a software developer, currently doing web development and learning everythi
 
 [linkedin]: https://www.linkedin.com/in/andres-noboa-jouvin-7463711a9/
 [twitter]: https://twitter.com/Andres_N15
-[instagram]: https://www.instagram.com/andresnoboa17/
 [profile]: https://github.com/AndresN17
