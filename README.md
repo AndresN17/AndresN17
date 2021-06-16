@@ -3,13 +3,12 @@
 I am a software developer, currently doing web development and learning everything that seems interesting for me.
 
 - 🔭 I’m currently working on Express JS and React JS.
-- 🌱 I’m currently learning everything! 
+- 🌱 I’m currently learning Nest JS and Flutter! 
 - 👯 I’m looking to collaborate on any project to learn new things.
 
 ### Contact with me:
 
 [<img align="left" alt="AndresNoboa" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png"/>][linkedin]
-[<img align="left" alt="AndresNoboa" width="22px" src="https://pics.freeicons.io/uploads/icons/png/7723321031557740373-512.png"/>][twitter]
 
 <br/>
 
@@ -31,5 +30,4 @@ I am a software developer, currently doing web development and learning everythi
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/andres-noboa-jouvin-7463711a9/
-[twitter]: https://twitter.com/Andres_N15
 [profile]: https://github.com/AndresN17
